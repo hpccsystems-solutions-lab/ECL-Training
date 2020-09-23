@@ -1,7 +1,7 @@
 # ECL-Training
 
 Welcome to ECL Training
-This is an introduction to ECL and HPCC Systems. Classes are taking place on Wednesdays from 1PM - 2:30. Classes are combination of introducing a concept followed by hands on training and a homework. Handout material for classes can be found in this repo. No external materials are required.
+This is an introduction to ECL and HPCC Systems. Classes are taking place on Wednesdays 1PM - 2:30. Each class will include introducing a concept followed by hands on training if needed and a homework. Handout material for classes can be found in this repo. No external materials are required.
 If you are planning to miss a class, please inform the instructor Bahar Fardanian, bahar.fardanian@lexisnexisrisk.com.
 Please contact instructor for any questions or problems.
 
@@ -35,7 +35,7 @@ Homework: Please see WeekOneHW.md
 
 **Week #3**
 
-- Students will last week material by going over their homework's.
+- Students will review last week material by going over their homework's.
 - ECL Concepts:
   - Function
   - Module
@@ -43,5 +43,5 @@ Homework: Please see WeekOneHW.md
   - Project
   - Transform
 
-n class training: using an existing dataset to practice learned functionalities
+In class training: using an existing dataset to practice learned functionalities
 Homework: Please see WeekTwoHW.md
