@@ -1,7 +1,7 @@
 
 // Create a layout
 cars_layout := RECORD
-  INTEGER carID;
+    INTEGER carID;
 	INTEGER price;
 	STRING  brand;
 	STRING model;

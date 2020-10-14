@@ -43,5 +43,7 @@ Homework: Please see WeekOneHW.md
   - Project
   - Transform
 
-In class training: using an existing dataset to practice learned functionalities
-Homework: Please see WeekTwoHW.md
+**Week #4**
+Hands-on Practice:
+
+- Revisiting Transform and Project.
