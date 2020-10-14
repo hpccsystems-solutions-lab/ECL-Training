@@ -44,6 +44,7 @@ Homework: Please see WeekOneHW.md
   - Transform
 
 **Week #4**
+
 Hands-on Practice:
 
 - Revisiting Transform and Project.
