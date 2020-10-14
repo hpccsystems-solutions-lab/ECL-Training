@@ -18,4 +18,4 @@ Hint :
 
 Sample Result
 
-![result](./Images/week4_CarResult.JPG)
+![CarResult](./Images/week4_CarResult.JPG)
