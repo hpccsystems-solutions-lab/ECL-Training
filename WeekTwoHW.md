@@ -1,28 +1,9 @@
 For this week homework students are supposed to:
 
-1- Create a module that calls a function
-2- Function will use transform and project to perform data transformation.
-3- Transform should use data aggregation interduce in week one if possible
-3- Module will call the function to print out the result.
+1- Find a dataset they like to work with
+2- Import the file using ECL Watch functions: upload and spray
+3- Create a dataset
+4- Sort and Filter dataset based on the fields available to them
+5- Use aggregated function to preform data discovery.
 
-Class with start with going over homework's, so please come in prepared.
-
-A quick look at solution:
-
-EXPORT myMod := MODULE
-
-    // Create your dataset
-
-    SHARED myFunc(mydataset) := FUNCTION
-        //Create Tranfrom your choice of inline or standalone
-        //Project to go over mydataset
-
-        RETURN myres;
-    END;
-
-// Call your function and pass the dataset.
-// Don't forget to export
-
-END;
-
-//Call your function and print the result
+Class with start with going over homework, so please come in prepared.

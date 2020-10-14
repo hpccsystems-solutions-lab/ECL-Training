@@ -8,8 +8,12 @@ Please contact instructor for any questions or problems.
 ## Pre-course to do:
 
 - Make sure you have access to [CloudIDE](https://ide.hpccsystems.com/), if new user please create a login.
-- Take a quick look at [ECL Watchpage](http://play.hpccsystems.com:8010/#/stub/Main-DL/Activity)
-- [Learn ECL](https://hpccsystems-solutions-lab.github.io/) is our resource to ECL and HPCC Systems. It includes sample codes which user can practice with.
+- Take a quick look at [ECL Watchpage](http://play.hpccsystems.com:8010)
+
+## Resources
+
+- [Learn ECL Website ](https://hpccsystems-solutions-lab.github.io/) is our resource to ECL and HPCC Systems. It includes sample codes which user can practice with.
+- [LearnECL Workshop](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) includes all codes mentioned in Learn ECL webpage.
 
 ## Course BreakDown
 
@@ -31,7 +35,7 @@ Please contact instructor for any questions or problems.
 - Sort, Filter
 
 In class training: using an existing dataset to practice learned functionalities
-Homework: Please see WeekOneHW.md
+Homework: Please see WeekTwoHW
 
 **Week #3**
 
@@ -42,6 +46,9 @@ Homework: Please see WeekOneHW.md
 - Data Integration
   - Project
   - Transform
+
+In class training: using an existing dataset to practice learned functionalities
+Homework: Please see WeekThreeHW
 
 **Week #4**
 
