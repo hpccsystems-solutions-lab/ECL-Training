@@ -5,7 +5,7 @@ For today's session, we are going to cover Table function and created two tables
 **Practice #1**
 
 1- How many cars per brand are in each year?\
-2- Count how many colors are in your cars dataset?
+2- Count how many colors are in your cars dataset?\
 3- Write two test cases that shows your solution is correct
 
 Sample Result\
