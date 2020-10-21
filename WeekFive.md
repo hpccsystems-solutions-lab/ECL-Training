@@ -9,7 +9,7 @@ For today's session, we are going to cover Table function and created two tables
 3- Write two test cases that shows your solution is correct
 
 Sample Result\
-![CarResult](./Images/week5_CarsPerYear.JPG)
+![CarResult](./Images/week5_CarsPerYear.jpg)
 
 **Practice #2**
 
@@ -20,4 +20,4 @@ In our week 4 practice, we used a SET to randomly define a few dark colors, now 
 3- Data Validation: Now that you have all colors, take a quick look and see if they are all valid.
 
 Sample Result\
-![CarResult](./Images/week5_ColorsperBrand.JPG)
+![CarResult](./Images/Week5_ColorsperBrand.jpg)
