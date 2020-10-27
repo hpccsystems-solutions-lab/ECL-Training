@@ -39,19 +39,53 @@ Homework: Please see WeekTwoHW
 
 **Week #3**
 
-- Students will review last week material by going over their homework's.
+Students will review last week material by going over their assignments.
+
 - ECL Concepts:
+
   - Function
   - Module
-- Data Integration
-  - Project
-  - Transform
+  - Project - Data Integration
+  - Transform - Data Integration
 
-In class training: using an existing dataset to practice learned functionalities
-Homework: Please see WeekThreeHW
+- In class assignments:
+  - Create a module and use that module
 
 **Week #4**
 
-Hands-on Practice:
+Students will review last week material by going over their assignments.
 
-- Revisiting Transform and Project.
+- ECL Concepts:
+
+  - Cont Transform
+  - Cont Project.
+
+- In class assignments:
+  - Using Car dataset, create multiple different tables
+
+**Week #5**
+
+Students will review last week material by going over their assignments.
+
+- ECL Concepts:
+
+  - Table - Data Aggregation
+  - Group
+  - Intro to testing the code - Data Validation
+
+- In class assignments:
+  - Using Car dataset, create multiple different tables.
+  - Add a Table to last week assignment.
+  - Writing test cases to see if the solution is correct.
+
+**Week #6**
+
+Students will review last week material by going over their assignments.
+
+- ECL Concepts:
+
+  - Join - Data Aggregation
+  - Data QA - Data Validation
+
+- In class assignments:
+  - Using smaller dataset to work on with different types of Joins.
