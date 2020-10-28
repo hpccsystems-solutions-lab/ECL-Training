@@ -83,7 +83,7 @@ livingRec := RECORD
 END;
 ```
 
-**Practice #3**
+**Practice #4**
 
 1- Display all students with all fields in studentDS with the major department and their state, and city\
 2 - Test your result
