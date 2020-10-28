@@ -85,6 +85,8 @@ Students will review last week material by going over their assignments.
 - ECL Concepts:
 
   - Join - Data Aggregation
+  - DEDUP
+  - Intro to STD Library
   - Data QA - Data Validation
 
 - In class assignments:
